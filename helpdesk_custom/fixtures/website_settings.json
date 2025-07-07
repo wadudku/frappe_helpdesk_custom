@@ -25,11 +25,11 @@
   "google_analytics_id": null,
   "head_html": null,
   "hide_footer_signup": 0,
-  "hide_login": 0,
-  "home_page": "/home",
+  "hide_login": 1,
+  "home_page": "/raise-ticket/new",
   "indexing_authorization_code": null,
   "indexing_refresh_token": null,
-  "modified": "2025-07-05 19:16:07.789840",
+  "modified": "2025-07-07 12:19:02.039191",
   "name": "Website Settings",
   "navbar_search": 0,
   "navbar_template": null,
@@ -42,18 +42,7 @@
   "splash_image": null,
   "subdomain": null,
   "title_prefix": null,
-  "top_bar_items": [
-   {
-    "label": "Raise a Ticket",
-    "open_in_new_tab": 0,
-    "parent": "Website Settings",
-    "parent_label": null,
-    "parentfield": "top_bar_items",
-    "parenttype": "Website Settings",
-    "right": 1,
-    "url": "/raise-ticket"
-   }
-  ],
+  "top_bar_items": [],
   "website_theme": "Standard",
   "website_theme_image_link": null
  }
