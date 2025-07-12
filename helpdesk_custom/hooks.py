@@ -256,6 +256,7 @@ fixtures = [
     "Custom DocPerm",
     "Workflow State",
     "Website Settings",
+    "HD Settings",
     "Web Page",
     "Web Form",
     "System Settings"
