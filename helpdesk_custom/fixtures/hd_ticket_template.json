@@ -1,0 +1,53 @@
+[
+ {
+  "about": null,
+  "description_template": null,
+  "docstatus": 0,
+  "doctype": "HD Ticket Template",
+  "fields": [
+   {
+    "fieldname": "custom_category",
+    "hide_from_customer": 0,
+    "parent": "Default",
+    "parentfield": "fields",
+    "parenttype": "HD Ticket Template",
+    "placeholder": null,
+    "required": 1,
+    "url_method": null
+   },
+   {
+    "fieldname": "custom_phone_number",
+    "hide_from_customer": 0,
+    "parent": "Default",
+    "parentfield": "fields",
+    "parenttype": "HD Ticket Template",
+    "placeholder": null,
+    "required": 0,
+    "url_method": null
+   },
+   {
+    "fieldname": "custom_transaction_id",
+    "hide_from_customer": 0,
+    "parent": "Default",
+    "parentfield": "fields",
+    "parenttype": "HD Ticket Template",
+    "placeholder": null,
+    "required": 0,
+    "url_method": null
+   },
+   {
+    "fieldname": "custom_user_attachment",
+    "hide_from_customer": 0,
+    "parent": "Default",
+    "parentfield": "fields",
+    "parenttype": "HD Ticket Template",
+    "placeholder": null,
+    "required": 0,
+    "url_method": null
+   }
+  ],
+  "modified": "2025-07-05 19:45:57.601528",
+  "name": "Default",
+  "template_name": "Default"
+ }
+]
