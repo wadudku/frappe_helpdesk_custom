@@ -256,6 +256,5 @@ fixtures = [
     "Custom DocPerm",
     "Workflow State",
     "Web Page",
-    "Web Form",
-    "HD Ticket Template"
+    "Web Form"
 ]
