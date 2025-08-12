@@ -488,7 +488,8 @@
     "url": null
    }
   ],
-  "title": "Website"
+  "title": "Website",
+  "type": "Workspace"
  },
  {
   "charts": [],
@@ -1142,7 +1143,8 @@
     "url": null
    }
   ],
-  "title": "Tools"
+  "title": "Tools",
+  "type": "Workspace"
  },
  {
   "charts": [],
@@ -1507,7 +1509,8 @@
     "url": null
    }
   ],
-  "title": "Users"
+  "title": "Users",
+  "type": "Workspace"
  },
  {
   "charts": [],
@@ -1894,7 +1897,8 @@
   "roles": [],
   "sequence_id": 20.0,
   "shortcuts": [],
-  "title": "Integrations"
+  "title": "Integrations",
+  "type": "Workspace"
  },
  {
   "charts": [],
@@ -2227,7 +2231,8 @@
   "roles": [],
   "sequence_id": 1.0,
   "shortcuts": [],
-  "title": "Helpdesk"
+  "title": "Helpdesk",
+  "type": "Workspace"
  },
  {
   "charts": [],
@@ -2914,7 +2919,8 @@
     "url": null
    }
   ],
-  "title": "Build"
+  "title": "Build",
+  "type": "Workspace"
  },
  {
   "charts": [],
@@ -2940,6 +2946,7 @@
   "roles": [],
   "sequence_id": 22.0,
   "shortcuts": [],
-  "title": "Welcome Workspace"
+  "title": "Welcome Workspace",
+  "type": "Workspace"
  }
 ]
